@@ -1,24 +1,13 @@
 ### Hi, I'm Lee 👋🧑‍💻
 
+
+<h3 align="left">Connect with me:</h3>
 - 📫 You can reach me via email at lee@rebsonau.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/leeokelly).
 - 🌐 Visit my personal website at https://www.rebsonau.com
 
+<h3 align="left">Languages and Tools:</h3>
+
 
 | <a href="https://github.com/rebsonau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rebsonau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rebsonau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebsonau&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<!--
-**Rebsonau/Rebsonau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
