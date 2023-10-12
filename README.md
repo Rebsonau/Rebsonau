@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Lee 👋🧑‍💻
+
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebsonau)](https://github.com/rebsonau/github-readme-stats)
 
 <!--
 **Rebsonau/Rebsonau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
