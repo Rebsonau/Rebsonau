@@ -11,4 +11,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,git,jest,postgres,prisma,github,figma,ai,ps,vscode,svg,stackoverflow,sketchup,autocad,discord,linkedin&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,git,postgres,prisma,github,figma,ai,ps,vscode,svg,stackoverflow,sketchup,autocad,discord,linkedin&perline=5)](https://skillicons.dev)
