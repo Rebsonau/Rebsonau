@@ -1,6 +1,9 @@
 ### Hi, I'm Lee 👋🧑‍💻
 
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebsonau)](https://github.com/rebsonau/github-readme-stats)
+- 📫 You can reach me via email at [lee@rebsonau.com].
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/leeokelly).
+- 🌐 Visit my personal website at [Portfolio](https://www.rebsonau.com).
+
 
 | <a href="https://github.com/rebsonau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rebsonau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rebsonau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebsonau&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
