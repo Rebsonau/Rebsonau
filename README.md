@@ -1,5 +1,9 @@
 ### Hi, I'm Lee 👋🧑‍💻
 
+<h3>A passionate full stack developer with a previous background in construction from Scotland</h3>
+
+- 🌱 Currently learning React Native. 
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -7,7 +11,7 @@
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/leeokelly).
 
-- 🌐 Visit my personal website at [Rebsonau.com](https://www.rebsonau.com).
+- 🌐 Visit my personal website at [rebsonau.com](https://www.rebsonau.com).
 
 <h3 align="left">Languages and Tools:</h3>
 
